@@ -1,0 +1,4 @@
+Hvac KEYWORD1
+on     KEYWORD2
+off    KEYWORD2
+heating KEYWORD2
